@@ -9,10 +9,8 @@ A passionate Full-Stack developer from Brazil 🚀
 ![React Native](./icons/react-native.svg)
 ![TypeScript](./icons/typescript.svg)
 ![JavaScript](./icons/javascript.svg)
-![Angular](./icons/angularjs.svg)
-![CSharp](./icons/c-sharp.svg)
-![DotNet](./icons/dot-net.svg)
-![AspNet](./icons/asp-net.svg)
+![Laravel](./icons/laravel.svg)
+![Php](./icons/php.svg)
 ![Git](./icons/git.svg)
 
 ## Estudando
