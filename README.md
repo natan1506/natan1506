@@ -17,9 +17,11 @@ A passionate Full-Stack developer from Brazil 🚀
 
 ## Estudando
 ![Next.js](./icons/nextjs.svg)
-![Tailwind](./icons/tailwind.svg)
+![TypeScript](./icons/typescript.svg)
+![JavaScript](./icons/javascript.svg)
+![ReactJS](./icons/reactjs.svg)
+![React Native](./icons/react-native.svg)
 ![Node.js](./icons/node.svg)
-![Jest](./icons/jest.svg)
 ![Socket.io](./icons/socket-io.svg)
 ![Docker](./icons/docker.svg)
 
