@@ -14,13 +14,13 @@ A passionate Full-Stack developer from Brazil 🚀
 ![Git](./icons/git.svg)
 
 ## Estudando
-![Next.js](./icons/nextjs.svg)
+<!-- ![Next.js](./icons/nextjs.svg) -->
 ![TypeScript](./icons/typescript.svg)
 ![JavaScript](./icons/javascript.svg)
 ![ReactJS](./icons/reactjs.svg)
 ![React Native](./icons/react-native.svg)
 ![Node.js](./icons/node.svg)
-![Socket.io](./icons/socket-io.svg)
+<!-- ![Socket.io](./icons/socket-io.svg) -->
 ![Docker](./icons/docker.svg)
 
 <p align="center" style="margin-top: 30px">
