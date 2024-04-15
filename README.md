@@ -10,6 +10,7 @@ A passionate Full-Stack developer from Brazil 🚀
 ![TypeScript](./icons/typescript.svg)
 ![JavaScript](./icons/javascript.svg)
 ![Git](./icons/git.svg)
+![Node.js](./icons/node.svg)
 
 ## Estudando
 <!-- ![Next.js](./icons/nextjs.svg) -->
