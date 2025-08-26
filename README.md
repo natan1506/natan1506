@@ -1,5 +1,4 @@
 
-## Sobre mim
 Hi 👋, I'm **Natan Souza**
 
 A passionate Full-Stack developer from Brazil 🚀
