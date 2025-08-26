@@ -4,23 +4,6 @@ Hi 👋, I'm **Natan Souza**
 
 A passionate Full-Stack developer from Brazil 🚀
 
-## Tenho experiência
-![ReactJS](./icons/reactjs.svg)
-![React Native](./icons/react-native.svg)
-![TypeScript](./icons/typescript.svg)
-![JavaScript](./icons/javascript.svg)
-![Git](./icons/git.svg)
-![Node.js](./icons/node.svg)
-
-## Estudando
-<!-- ![Next.js](./icons/nextjs.svg) -->
-![TypeScript](./icons/typescript.svg)
-![JavaScript](./icons/javascript.svg)
-![ReactJS](./icons/reactjs.svg)
-![React Native](./icons/react-native.svg)
-![Node.js](./icons/node.svg)
-<!-- ![Socket.io](./icons/socket-io.svg) -->
-![Docker](./icons/docker.svg)
 
 <!-- <p align="center" style="margin-top: 30px">
   <img src="https://github-readme-stats.vercel.app/api?username=natan1506&show_icons=true&count_private=true&hide=issues&theme=tokyonight&card_width=500" alt="natan1506">
